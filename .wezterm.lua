@@ -23,7 +23,7 @@ config.font = wezterm.font("MesloLGS Nerd Font Mono")
 config.font_size = 12
 config.enable_tab_bar = false
 config.window_decorations = "RESIZE"
-config.window_background_opacity = 0.77
+config.window_background_opacity = 0.87
 config.window_background_image = "/home/vinicius/Pictures/black-wallpaper.jpeg"
 
 -- set default terminal
